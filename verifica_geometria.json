@@ -1,0 +1,161 @@
+{
+  "solids": [
+    {
+      "name": "P01_Modulo_principale",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 143399.63766
+    },
+    {
+      "name": "P02_Sezione_mobile_4x60",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 17808.56505
+    },
+    {
+      "name": "P03_Sezione_mobile_50x80",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 71972.74781
+    },
+    {
+      "name": "P04_Porta_patch_pieno",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 26268.77805
+    },
+    {
+      "name": "P05_Vassoio_con_asticella",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 971.87271
+    },
+    {
+      "name": "P06_Porta_occhiali",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 21551.13835
+    }
+  ],
+  "assembly_intersections": [
+    {
+      "a": "P01",
+      "b": "P02",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P01",
+      "b": "P03",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P01",
+      "b": "P04",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P01",
+      "b": "P05",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P01",
+      "b": "P06",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P02",
+      "b": "P03",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P02",
+      "b": "P04",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P02",
+      "b": "P05",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P02",
+      "b": "P06",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03",
+      "b": "P04",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03",
+      "b": "P05",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03",
+      "b": "P06",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04",
+      "b": "P05",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04",
+      "b": "P06",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P05",
+      "b": "P06",
+      "volume_mm3": 0.0
+    }
+  ],
+  "slider_motion": [
+    {
+      "lift_mm": 0,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 5,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 10,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 15,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 20,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 25,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 50,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 100,
+      "body_intersection_mm3": 0.0
+    },
+    {
+      "lift_mm": 112,
+      "body_intersection_mm3": 0.0
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "P01",
+    "name": "P01_Modulo_principale",
+    "file": "P01_Modulo_principale.stl",
+    "print_dimensions": [
+      115.0,
+      100.0,
+      218.7
+    ],
+    "assembly_bounds": [
+      [
+        0.0,
+        115.0
+      ],
+      [
+        -20.0,
+        80.0
+      ],
+      [
+        0.0,
+        218.7
+      ]
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "P02_Sezione_mobile_4x60",
+    "file": "P02_Sezione_mobile_4x60.stl",
+    "print_dimensions": [
+      4.0,
+      60.0,
+      180.8
+    ],
+    "assembly_bounds": [
+      [
+        75.0,
+        79.0
+      ],
+      [
+        20.0,
+        80.0
+      ],
+      [
+        2.5,
+        183.3
+      ]
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "P03_Sezione_mobile_50x80",
+    "file": "P03_Sezione_mobile_50x80.stl",
+    "print_dimensions": [
+      50.0,
+      80.0,
+      180.8
+    ],
+    "assembly_bounds": [
+      [
+        25.0,
+        75.0
+      ],
+      [
+        0.0,
+        80.0
+      ],
+      [
+        2.5,
+        183.3
+      ]
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "P04_Porta_patch_pieno",
+    "file": "P04_Porta_patch_pieno.stl",
+    "print_dimensions": [
+      70.0,
+      126.0,
+      6.4
+    ],
+    "assembly_bounds": [
+      [
+        35.0,
+        105.0
+      ],
+      [
+        -7.3,
+        -0.9
+      ],
+      [
+        8.0,
+        134.0
+      ]
+    ]
+  },
+  {
+    "id": "P05",
+    "name": "P05_Vassoio_con_asticella",
+    "file": "P05_Vassoio_con_asticella.stl",
+    "print_dimensions": [
+      66.4,
+      29.567,
+      14.1
+    ],
+    "assembly_bounds": [
+      [
+        36.8,
+        103.2
+      ],
+      [
+        -16.9,
+        -2.8
+      ],
+      [
+        18.3,
+        47.867
+      ]
+    ]
+  },
+  {
+    "id": "P06",
+    "name": "P06_Porta_occhiali",
+    "file": "P06_Porta_occhiali.stl",
+    "print_dimensions": [
+      142.0,
+      53.6,
+      23.7
+    ],
+    "assembly_bounds": [
+      [
+        -35.0,
+        107.0
+      ],
+      [
+        -46.1,
+        7.5
+      ],
+      [
+        0.0,
+        23.7
+      ]
+    ]
+  }
+]

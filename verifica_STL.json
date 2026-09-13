@@ -1,0 +1,130 @@
+[
+  {
+    "file": "P01_Modulo_principale.stl",
+    "triangles": 17434,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.00014991722127888352,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      115.0,
+      100.0,
+      218.7
+    ],
+    "volume_mm3": 143399.6378
+  },
+  {
+    "file": "P02_Sezione_mobile_4x60.stl",
+    "triangles": 1036,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.0001390611141687259,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      4.0,
+      60.0,
+      180.8
+    ],
+    "volume_mm3": 17808.565
+  },
+  {
+    "file": "P03_Sezione_mobile_50x80.stl",
+    "triangles": 2044,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.00013910593406762928,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      50.0,
+      80.0,
+      180.8
+    ],
+    "volume_mm3": 71972.7478
+  },
+  {
+    "file": "P04_Porta_patch_pieno.stl",
+    "triangles": 408,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 1.4016404747962952e-07,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      70.0,
+      126.0,
+      6.4
+    ],
+    "volume_mm3": 26268.7783
+  },
+  {
+    "file": "P05_Vassoio_con_asticella.stl",
+    "triangles": 588,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.003163376927535738,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      66.4,
+      29.5667,
+      14.1
+    ],
+    "volume_mm3": 971.8727
+  },
+  {
+    "file": "P06_Porta_occhiali.stl",
+    "triangles": 88,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.5999984741210938,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      142.0,
+      53.6,
+      23.7
+    ],
+    "volume_mm3": 21551.1383
+  },
+  {
+    "file": "prove\\T01_Guida_porta_patch.stl",
+    "triangles": 362,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 1.4016404747962952e-07,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      70.0,
+      27.0,
+      6.4
+    ],
+    "volume_mm3": 6551.9952
+  },
+  {
+    "file": "prove\\T02_Cursore_porta_patch.stl",
+    "triangles": 386,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.003163376927535738,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      66.4,
+      20.0,
+      7.2
+    ],
+    "volume_mm3": 548.2761
+  }
+]
