@@ -654,6 +654,7 @@ Modifiche richieste dopo la revisione 14, applicate agli STL e al file Blender.
 - **Espansione verso Sud.** Le due sedi a coda di rondine del bordo Sud sono sostituite da due sedi per la stessa chiave a meandro (Y = 12 e 70,5 mm), sempre aperte sotto la base.
 - **Inserti.** La base ha tre file di fori Ø3,4 a passo 5 mm (Y = 25, 42,5 e 60 mm); P02 e P03 hanno i pioli Ø3 anche nella fila centrale.
 - **Posizioni invertite.** P02 sta a X = 25–29 mm e P03 a X = 30–80 mm. Lo scarico del bordo posteriore della tasca arriva a X = 80,3 mm.
+- **Tasca del porta patch a portapenne.** Tolti labbro e montanti bassi. La tasca ha fondo a Z = 8 mm, pareti frontale e laterali alte fino a Z = 30 mm, 1 mm di gioco per lato attorno a P04 e svasatura di 1,5 mm sul bordo superiore; il retro resta aperto contro P03. Nel frontale c'è un varco da X = 66 a 74 mm per l'asticella di P05, verificato per tutta la corsa di 25 mm.
 - **Fermo a L (P08).** Appoggio 6,7 × 2,4 mm e ala verticale alta 30 mm, lungo 77,3 mm, con due perni nei fori X = 22, Y = 25 e 60. L'ala resta a 0,3 mm dal fianco Sud di P02.
 
 Verifiche digitali: ogni pezzo è un solido chiuso e connesso; le 36 coppie di solidi dell'assieme, con le due chiavi e il fermo, non hanno intersezioni volumetriche. Accoppiamento delle chiavi e ponti sopra le sedi vanno provati in stampa.

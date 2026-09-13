@@ -74,7 +74,7 @@
      218.7
     ]
    ],
-   "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p>"
+   "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Davanti, tasca del porta patch a portapenne: pareti alte 30 mm, 1 mm di gioco e bordo svasato. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p>"
   },
   {
    "id": "P02",
@@ -236,7 +236,7 @@
    "group": "Giunti e fermi",
    "file": "P07_Chiave_meandro.stl",
    "print": "chiave",
-   "mode": "extruded",
+   "mode": "mesh",
    "assembled_bounds": [
     [
      17.0,
@@ -259,7 +259,7 @@
    "group": "Giunti e fermi",
    "file": "P07_Chiave_meandro.stl",
    "print": "chiave",
-   "mode": "extruded",
+   "mode": "mesh",
    "assembled_bounds": [
     [
      77.0,
@@ -486,8 +486,8 @@
   },
   {
    "title": "Inserisci il porta patch",
-   "short": "piede nella tasca · dall'alto",
-   "text": "Appoggia i patch da circa 66 × 108 mm sul vassoio. Inserisci il piede di P04 nella tasca davanti a P01 e accompagna il corpo contro il modulo. Per toglierlo usa la linguetta superiore.",
+   "short": "nella tasca · dall'alto",
+   "text": "Appoggia i patch da circa 66 × 108 mm sul vassoio. Lascia cadere P04 nella tasca davanti a P01, come una penna nel portapenne: il bordo svasato lo centra e il gioco di 1 mm per lato non richiede precisione. L'asticella passa nel varco del frontale. Per toglierlo sfilalo verso l'alto con la linguetta superiore.",
    "parts": [
     "P01",
     "P04",
@@ -510,7 +510,7 @@
    ],
    "dir": [
     0,
-    -0.5,
+    0,
     1
    ],
    "travel": 40
@@ -621,14 +621,14 @@
      ],
      [
       "Supporti",
-      "soffitti delle sezioni e grata"
+      "soffitti, grata e fondo della tasca davanti"
      ],
      [
       "Ingombro",
       "115 × 100 × 218,7 mm"
      ]
     ],
-    "why": "P01 è alto 218,7 mm: controlla il volume utile della stampante. Le sedi delle chiavi sono aperte sotto la base; il loro soffitto a 3,1 mm si stampa con ponti corti.",
+    "why": "P01 è alto 218,7 mm: controlla il volume utile della stampante. Le sedi delle chiavi sono aperte sotto la base; il loro soffitto a 3,1 mm si stampa con ponti corti. Il fondo della tasca del porta patch sporge di 10,7 mm davanti alla base a Z = 5 mm: mettici i supporti.",
     "summary": "verticale · 3 pareti · supporti per soffitti e grata"
    },
    {

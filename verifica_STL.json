@@ -1,7 +1,7 @@
 [
   {
     "file": "P01_Modulo_principale.stl",
-    "triangles": 29220,
+    "triangles": 29572,
     "closed_edges": true,
     "consistent_winding": true,
     "connected_solids": 1,
@@ -13,7 +13,7 @@
       100.0,
       218.7
     ],
-    "volume_mm3": 170913.953
+    "volume_mm3": 176304.8682
   },
   {
     "file": "P02_Sezione_mobile_4x60.stl",

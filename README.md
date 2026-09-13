@@ -21,4 +21,4 @@ Verifica digitale completata; accoppiamento e scorrimento da tarare con i provin
 
 Aggiornamento su richiesta: asta P05 accorciata da 88,7 a 29,57 mm (un terzo). Presa, vassoio e corsa di 25 mm invariati.
 
-Aggiornamento del 14 settembre 2026: lato Sud di P01 aperto, parete posteriore dietro P02/P03, fermi superiori agli angoli della grata, nasello di P06 arrotondato e giunto P01–P06 a chiave a meandro (P07). P02 e P03 sono profondi 77,3 mm, invertiti (P02 a Sud, P03 a Nord) e fissati su tre file di fori; nuovo fermo a L P08.
+Aggiornamento del 14 settembre 2026: lato Sud di P01 aperto, parete posteriore dietro P02/P03, fermi superiori agli angoli della grata, nasello di P06 arrotondato e giunto P01–P06 a chiave a meandro (P07). P02 e P03 sono profondi 77,3 mm, invertiti (P02 a Sud, P03 a Nord) e fissati su tre file di fori; nuovo fermo a L P08; tasca del porta patch a portapenne, alta e lasca.

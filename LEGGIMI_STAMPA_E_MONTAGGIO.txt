@@ -49,7 +49,7 @@ MONTAGGIO
 3. Fuori dal mobile, infilare P05 dall'alto dentro P04.
    L'asticella resta davanti; il collegamento passa nella fessura aperta in alto.
 4. Appoggiare i foglietti patch da circa 66 x 108 mm sul vassoio.
-5. Inserire il piede di P04 nella tasca inferiore di P01.
+5. Lasciare scendere P04 nella tasca davanti a P01, come in un portapenne (gioco 1 mm, bordo svasato).
 6. Per prelevare i patch, sollevare a mano la presa frontale per 0-25 mm.
    Riabbassarla dopo l'uso. Non ci sono scatti o arresti che la tengano sollevata.
 7. Per rimuovere tutto il porta patch, usare la linguetta posteriore superiore.
@@ -72,6 +72,8 @@ P01-P06: agganci a coda di rondine sostituiti da due chiavi a meandro P07 (gioco
 P01: due sedi uguali sul bordo Sud (Y = 12 e 70,5 mm) per moduli futuri.
 P01: terza fila di fori degli inserti a Y = 42,5 mm; P02 e P03 hanno i pioli corrispondenti.
 P02 e P03 invertiti: P02 a X 25-29, P03 a X 30-80. Scarico della tasca allungato fino a X 80,3.
+P01: tasca del porta patch rifatta a portapenne: pareti alte 30 mm, gioco 1 mm per lato,
+     svasatura 1,5 mm in cima e varco da 8 mm per l'asticella di P05. Supportare il fondo sporgente.
 P08: nuovo fermo a L (appoggio 6,7 x 2,4, ala alta 30 mm, lungo 77,3 mm) con due perni.
 P02/P03: accorciati sul retro a Y = 77,3 mm; P03 senza fondo, lo chiude la parete di P01.
 P06: nasello con punta raccordata (R 4 mm) e spigoli smussati (1 mm), altezza 23,7 mm invariata.
