@@ -3,6 +3,9 @@
 Versione attuale: revisione 14. Apri **guida.html** per la vista 3D interattiva, il movimento del vassoio, gli STL e le istruzioni.
 
 - `P01`–`P06`: sei pezzi da stampare, una copia ciascuno, millimetri e Z=0.
+- `P07_Chiave_meandro.stl`: chiave a S che unisce P06 a P01, **due copie**.
+- `P08_Fermo_L.stl`: fermo a L che blocca P02 dal lato Sud.
+- `guida_spec.json`: sorgente della guida (skill guida-stampa-3d).
 - `SkinkOcchiali_v14.blend`: assieme modificabile; fotogrammi 1–60 per il sollevamento di 25 mm.
 - `LEGGIMI_STAMPA_E_MONTAGGIO.txt`, `mappa_montaggio.svg`: istruzioni offline.
 - `prove/`: guida e cursore corti ricavati dalla geometria reale.
@@ -17,3 +20,5 @@ Il nuovo porta patch ha pareti piene e una sola fessura funzionale. Il fondo mob
 Verifica digitale completata; accoppiamento e scorrimento da tarare con i provini sulla propria stampante. Il progetto conserva la struttura della bozza e non costituisce una riprogettazione completa per stampa senza supporti.
 
 Aggiornamento su richiesta: asta P05 accorciata da 88,7 a 29,57 mm (un terzo). Presa, vassoio e corsa di 25 mm invariati.
+
+Aggiornamento del 14 settembre 2026: lato Sud di P01 aperto, parete posteriore dietro P02/P03, fermi superiori agli angoli della grata, nasello di P06 arrotondato e giunto P01–P06 a chiave a meandro (P07). P02 e P03 sono profondi 77,3 mm, invertiti (P02 a Sud, P03 a Nord) e fissati su tre file di fori; nuovo fermo a L P08.

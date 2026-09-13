@@ -8,6 +8,7 @@
       100.0,
       218.7
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
         0.0,
@@ -29,17 +30,18 @@
     "file": "P02_Sezione_mobile_4x60.stl",
     "print_dimensions": [
       4.0,
-      60.0,
+      57.3,
       180.8
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
-        75.0,
-        79.0
+        25.0,
+        29.0
       ],
       [
         20.0,
-        80.0
+        77.3
       ],
       [
         2.5,
@@ -53,17 +55,18 @@
     "file": "P03_Sezione_mobile_50x80.stl",
     "print_dimensions": [
       50.0,
-      80.0,
+      77.3,
       180.8
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
-        25.0,
-        75.0
+        30.0,
+        80.0
       ],
       [
         0.0,
-        80.0
+        77.3
       ],
       [
         2.5,
@@ -80,6 +83,7 @@
       126.0,
       6.4
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
         35.0,
@@ -104,6 +108,7 @@
       29.567,
       14.1
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
         36.8,
@@ -125,9 +130,10 @@
     "file": "P06_Porta_occhiali.stl",
     "print_dimensions": [
       142.0,
-      53.6,
+      46.1,
       23.7
     ],
+    "copies": 1,
     "assembly_bounds": [
       [
         -35.0,
@@ -135,11 +141,61 @@
       ],
       [
         -46.1,
-        7.5
+        0.0
       ],
       [
         0.0,
         23.7
+      ]
+    ]
+  },
+  {
+    "id": "P07",
+    "name": "P07_Chiave_meandro",
+    "file": "P07_Chiave_meandro.stl",
+    "print_dimensions": [
+      16.0,
+      19.0,
+      2.8
+    ],
+    "copies": 2,
+    "assembly_bounds": [
+      [
+        17.0,
+        93.0
+      ],
+      [
+        -9.5,
+        9.5
+      ],
+      [
+        0.0,
+        2.8
+      ]
+    ]
+  },
+  {
+    "id": "P08",
+    "name": "P08_Fermo_L",
+    "file": "P08_Fermo_L.stl",
+    "print_dimensions": [
+      6.7,
+      77.3,
+      33.5
+    ],
+    "copies": 1,
+    "assembly_bounds": [
+      [
+        18.0,
+        24.7
+      ],
+      [
+        0.0,
+        77.3
+      ],
+      [
+        2.5,
+        36.0
       ]
     ]
   }

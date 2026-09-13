@@ -634,3 +634,26 @@ comprendono 7,5 mm di agganci posteriori oltre alla mensola da 46,1 mm.
 La guida riporta gli orientamenti esportati e i supporti da valutare nello slicer.
 Verifiche digitali in `verifica_geometria.json` e `verifica_STL.json`.
 Scorrimento, resistenza e tolleranze di stampa devono essere verificati fisicamente.
+
+
+# 27. Aggiornamento del 14 settembre 2026
+
+Modifiche richieste dopo la revisione 14, applicate agli STL e al file Blender.
+
+- **Lato Sud aperto.** Il telaio Sud di P01 (montanti, traverso superiore e bordino sopra la base) è stato rimosso. La base da 6 mm resta intera.
+- **Parete posteriore.** P01 ha una parete da 2,4 mm a Y = 77,6–80 mm, dal bordo Sud fino al divisorio della Sezione 3. La Sezione 3 resta aperta sul retro.
+- **Sezioni mobili.** P02 e P03 sono accorciati sul retro a Y = 77,3 mm, con 0,3 mm di gioco dalla parete. P03 non ha più il fondo posteriore: lo chiude la parete di P01.
+- **Fermi superiori.** I quattro fermi (10 × 8 mm, fino a 218,7 mm) sono agli angoli della grata.
+- **Nasello.** Punta raccordata con raggio 4 mm e spigoli smussati di 1 mm; altezza 23,7 mm e posizione invariate.
+- **Giunto P01–P06.** Gli agganci maschio/femmina della sezione 20 sono sostituiti da una chiave a meandro separata (P07, due copie), secondo lo schema "board lengthening with meander key":
+  - chiave a S 16 × 19 × 2,8 mm, tratti da 3 mm;
+  - metà chiave in una fessura passante del piano di P06, metà in una sede aperta sotto la base di P01, profonda 3,1 mm;
+  - gioco 0,3 mm per lato nel piano;
+  - posizioni X = 25 e 85 mm sul bordo anteriore.
+  P06 si appoggia per primo, si inseriscono le chiavi e si abbassa P01. Il modulo principale continua ad avere solo cavità.
+- **Espansione verso Sud.** Le due sedi a coda di rondine del bordo Sud sono sostituite da due sedi per la stessa chiave a meandro (Y = 12 e 70,5 mm), sempre aperte sotto la base.
+- **Inserti.** La base ha tre file di fori Ø3,4 a passo 5 mm (Y = 25, 42,5 e 60 mm); P02 e P03 hanno i pioli Ø3 anche nella fila centrale.
+- **Posizioni invertite.** P02 sta a X = 25–29 mm e P03 a X = 30–80 mm. Lo scarico del bordo posteriore della tasca arriva a X = 80,3 mm.
+- **Fermo a L (P08).** Appoggio 6,7 × 2,4 mm e ala verticale alta 30 mm, lungo 77,3 mm, con due perni nei fori X = 22, Y = 25 e 60. L'ala resta a 0,3 mm dal fianco Sud di P02.
+
+Verifiche digitali: ogni pezzo è un solido chiuso e connesso; le 36 coppie di solidi dell'assieme, con le due chiavi e il fermo, non hanno intersezioni volumetriche. Accoppiamento delle chiavi e ponti sopra le sedi vanno provati in stampa.

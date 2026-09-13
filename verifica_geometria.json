@@ -5,21 +5,21 @@
       "non_manifold": 0,
       "degenerate": 0,
       "components": 1,
-      "volume_mm3": 143399.63766
+      "volume_mm3": 170913.9732
     },
     {
       "name": "P02_Sezione_mobile_4x60",
       "non_manifold": 0,
       "degenerate": 0,
       "components": 1,
-      "volume_mm3": 17808.56505
+      "volume_mm3": 16714.14291
     },
     {
       "name": "P03_Sezione_mobile_50x80",
       "non_manifold": 0,
       "degenerate": 0,
       "components": 1,
-      "volume_mm3": 71972.74781
+      "volume_mm3": 57028.73909
     },
     {
       "name": "P04_Porta_patch_pieno",
@@ -40,83 +40,209 @@
       "non_manifold": 0,
       "degenerate": 0,
       "components": 1,
-      "volume_mm3": 21551.13835
+      "volume_mm3": 21032.20565
+    },
+    {
+      "name": "P07_Chiave_meandro",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 319.19999
+    },
+    {
+      "name": "P07_Chiave_meandro_2",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 319.19999
+    },
+    {
+      "name": "P08_Fermo_L",
+      "non_manifold": 0,
+      "degenerate": 0,
+      "components": 1,
+      "volume_mm3": 6412.74015
     }
   ],
   "assembly_intersections": [
     {
-      "a": "P01",
-      "b": "P02",
+      "a": "P01_Modulo_principale",
+      "b": "P02_Sezione_mobile_4x60",
       "volume_mm3": 0.0
     },
     {
-      "a": "P01",
-      "b": "P03",
+      "a": "P01_Modulo_principale",
+      "b": "P03_Sezione_mobile_50x80",
       "volume_mm3": 0.0
     },
     {
-      "a": "P01",
-      "b": "P04",
+      "a": "P01_Modulo_principale",
+      "b": "P04_Porta_patch_pieno",
       "volume_mm3": 0.0
     },
     {
-      "a": "P01",
-      "b": "P05",
+      "a": "P01_Modulo_principale",
+      "b": "P05_Vassoio_con_asticella",
       "volume_mm3": 0.0
     },
     {
-      "a": "P01",
-      "b": "P06",
+      "a": "P01_Modulo_principale",
+      "b": "P06_Porta_occhiali",
       "volume_mm3": 0.0
     },
     {
-      "a": "P02",
-      "b": "P03",
+      "a": "P01_Modulo_principale",
+      "b": "P07_Chiave_meandro",
       "volume_mm3": 0.0
     },
     {
-      "a": "P02",
-      "b": "P04",
+      "a": "P01_Modulo_principale",
+      "b": "P07_Chiave_meandro_2",
       "volume_mm3": 0.0
     },
     {
-      "a": "P02",
-      "b": "P05",
+      "a": "P01_Modulo_principale",
+      "b": "P08_Fermo_L",
       "volume_mm3": 0.0
     },
     {
-      "a": "P02",
-      "b": "P06",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P03_Sezione_mobile_50x80",
       "volume_mm3": 0.0
     },
     {
-      "a": "P03",
-      "b": "P04",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P04_Porta_patch_pieno",
       "volume_mm3": 0.0
     },
     {
-      "a": "P03",
-      "b": "P05",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P05_Vassoio_con_asticella",
       "volume_mm3": 0.0
     },
     {
-      "a": "P03",
-      "b": "P06",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P06_Porta_occhiali",
       "volume_mm3": 0.0
     },
     {
-      "a": "P04",
-      "b": "P05",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P07_Chiave_meandro",
       "volume_mm3": 0.0
     },
     {
-      "a": "P04",
-      "b": "P06",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P07_Chiave_meandro_2",
       "volume_mm3": 0.0
     },
     {
-      "a": "P05",
-      "b": "P06",
+      "a": "P02_Sezione_mobile_4x60",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P04_Porta_patch_pieno",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P05_Vassoio_con_asticella",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P06_Porta_occhiali",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P07_Chiave_meandro",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P07_Chiave_meandro_2",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P03_Sezione_mobile_50x80",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04_Porta_patch_pieno",
+      "b": "P05_Vassoio_con_asticella",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04_Porta_patch_pieno",
+      "b": "P06_Porta_occhiali",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04_Porta_patch_pieno",
+      "b": "P07_Chiave_meandro",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04_Porta_patch_pieno",
+      "b": "P07_Chiave_meandro_2",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P04_Porta_patch_pieno",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P05_Vassoio_con_asticella",
+      "b": "P06_Porta_occhiali",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P05_Vassoio_con_asticella",
+      "b": "P07_Chiave_meandro",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P05_Vassoio_con_asticella",
+      "b": "P07_Chiave_meandro_2",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P05_Vassoio_con_asticella",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P06_Porta_occhiali",
+      "b": "P07_Chiave_meandro",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P06_Porta_occhiali",
+      "b": "P07_Chiave_meandro_2",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P06_Porta_occhiali",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P07_Chiave_meandro",
+      "b": "P07_Chiave_meandro_2",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P07_Chiave_meandro",
+      "b": "P08_Fermo_L",
+      "volume_mm3": 0.0
+    },
+    {
+      "a": "P07_Chiave_meandro_2",
+      "b": "P08_Fermo_L",
       "volume_mm3": 0.0
     }
   ],
@@ -157,5 +283,6 @@
       "lift_mm": 112,
       "body_intersection_mm3": 0.0
     }
-  ]
+  ],
+  "note": "Configurazione con P02 a X 25-29 e P03 a X 30-80, fermo P08 e chiavi P07 nelle due posizioni. Scorrimento P05 in P04 invariato (pezzi non modificati)."
 }
