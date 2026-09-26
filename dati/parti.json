@@ -2,7 +2,7 @@
   {
     "id": "P01",
     "name": "P01_Modulo_principale",
-    "file": "P01_Modulo_principale.stl",
+    "file": "stl/P01_Modulo_principale.stl",
     "print_dimensions": [
       115.0,
       100.0,
@@ -27,7 +27,7 @@
   {
     "id": "P02",
     "name": "P02_Sezione_mobile_4x60",
-    "file": "P02_Sezione_mobile_4x60.stl",
+    "file": "stl/P02_Sezione_mobile_4x60.stl",
     "print_dimensions": [
       4.0,
       57.3,
@@ -52,7 +52,7 @@
   {
     "id": "P03",
     "name": "P03_Sezione_mobile_50x80",
-    "file": "P03_Sezione_mobile_50x80.stl",
+    "file": "stl/P03_Sezione_mobile_50x80.stl",
     "print_dimensions": [
       50.0,
       77.3,
@@ -77,7 +77,7 @@
   {
     "id": "P04",
     "name": "P04_Porta_patch_pieno",
-    "file": "P04_Porta_patch_pieno.stl",
+    "file": "stl/P04_Porta_patch_pieno.stl",
     "print_dimensions": [
       70.0,
       126.0,
@@ -102,7 +102,7 @@
   {
     "id": "P05",
     "name": "P05_Vassoio_con_asticella",
-    "file": "P05_Vassoio_con_asticella.stl",
+    "file": "stl/P05_Vassoio_con_asticella.stl",
     "print_dimensions": [
       66.4,
       29.567,
@@ -127,7 +127,7 @@
   {
     "id": "P06",
     "name": "P06_Porta_occhiali",
-    "file": "P06_Porta_occhiali.stl",
+    "file": "stl/P06_Porta_occhiali.stl",
     "print_dimensions": [
       142.0,
       46.1,
@@ -152,7 +152,7 @@
   {
     "id": "P07",
     "name": "P07_Chiave_meandro",
-    "file": "P07_Chiave_meandro.stl",
+    "file": "stl/P07_Chiave_meandro.stl",
     "print_dimensions": [
       16.0,
       19.0,
@@ -177,7 +177,7 @@
   {
     "id": "P08",
     "name": "P08_Fermo_L",
-    "file": "P08_Fermo_L.stl",
+    "file": "stl/P08_Fermo_L.stl",
     "print_dimensions": [
       6.7,
       77.3,

@@ -2,16 +2,16 @@
 
 Versione attuale: revisione 14. Apri **guida.html** per la vista 3D interattiva, il movimento del vassoio, gli STL e le istruzioni.
 
-- `P01`–`P06`: sei pezzi da stampare, una copia ciascuno, millimetri e Z=0.
-- `P07_Chiave_meandro.stl`: chiave a S che unisce P06 a P01, **due copie**.
-- `P08_Fermo_L.stl`: fermo a L che blocca P02 dal lato Sud.
-- `guida_spec.json`: sorgente della guida (skill guida-stampa-3d).
-- `SkinkOcchiali_v14.blend`: assieme modificabile; fotogrammi 1–60 per il sollevamento di 25 mm.
-- `LEGGIMI_STAMPA_E_MONTAGGIO.txt`, `mappa_montaggio.svg`: istruzioni offline.
+- `stl/P01`–`P06`: sei pezzi da stampare, una copia ciascuno, millimetri e Z=0.
+- `stl/P07_Chiave_meandro.stl`: chiave a S che unisce P06 a P01, **due copie**.
+- `stl/P08_Fermo_L.stl`: fermo a L che blocca P02 dal lato Sud.
+- `dati/guida_spec.json`: sorgente della guida (skill guida-stampa-3d).
+- `blender/SkinkOcchiali_v14.blend`: assieme modificabile; fotogrammi 1–60 per il sollevamento di 25 mm.
+- `documenti/LEGGIMI_STAMPA_E_MONTAGGIO.txt`, `documenti/mappa_montaggio.svg`: istruzioni offline.
 - `prove/`: guida e cursore corti ricavati dalla geometria reale.
 - `originale/`: bozza e documenti originali, più assieme v14 di riferimento da NON stampare come pezzo unico.
-- `progetto_sistema_modulare_mobile_v14.md`: specifiche aggiornate.
-- `verifica_geometria.json` e `verifica_STL.json`: controlli digitali.
+- `documenti/progetto_sistema_modulare_mobile_v14.md`: specifiche aggiornate.
+- `dati/verifica_geometria.json` e `dati/verifica_STL.json`: controlli digitali.
 
 Nord = destra, Sud = sinistra guardando il frontale. Nell'assieme: X cresce verso destra, Y verso il fondo, Z verso l'alto. Le parti sono state riflesse in profondità rispetto alla bozza per correggere l'inversione della vista frontale.
 

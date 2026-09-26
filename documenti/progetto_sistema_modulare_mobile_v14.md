@@ -632,7 +632,7 @@ L'assieme misura 150 × 126,1 × 218,7 mm. I 53,6 mm di profondità del file P06
 comprendono 7,5 mm di agganci posteriori oltre alla mensola da 46,1 mm.
 
 La guida riporta gli orientamenti esportati e i supporti da valutare nello slicer.
-Verifiche digitali in `verifica_geometria.json` e `verifica_STL.json`.
+Verifiche digitali in `dati/verifica_geometria.json` e `dati/verifica_STL.json`.
 Scorrimento, resistenza e tolleranze di stampa devono essere verificati fisicamente.
 
 

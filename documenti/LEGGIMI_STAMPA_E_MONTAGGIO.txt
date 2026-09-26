@@ -10,14 +10,14 @@ Ingombro assieme: 150 x 126,1 x 218,7 mm, entro il mobile 310 x 130 x 219 mm.
 La profondita include il portaocchiali; la larghezza include la sua sporgenza a Sud.
 
 DA STAMPARE - UNA COPIA CIASCUNO, TRANNE P07
-P01_Modulo_principale.stl - 115.0 x 100.0 x 218.7 mm
-P02_Sezione_mobile_4x60.stl - 4.0 x 57.3 x 180.8 mm
-P03_Sezione_mobile_50x80.stl - 50.0 x 77.3 x 180.8 mm
-P04_Porta_patch_pieno.stl - 70.0 x 126.0 x 6.4 mm
-P05_Vassoio_con_asticella.stl - 66.4 x 29.567 x 14.1 mm
-P06_Porta_occhiali.stl - 142.0 x 46.1 x 23.7 mm
-P07_Chiave_meandro.stl - 16.0 x 19.0 x 2.8 mm - DUE COPIE
-P08_Fermo_L.stl - 6.7 x 77.3 x 33.5 mm
+stl/P01_Modulo_principale.stl - 115.0 x 100.0 x 218.7 mm
+stl/P02_Sezione_mobile_4x60.stl - 4.0 x 57.3 x 180.8 mm
+stl/P03_Sezione_mobile_50x80.stl - 50.0 x 77.3 x 180.8 mm
+stl/P04_Porta_patch_pieno.stl - 70.0 x 126.0 x 6.4 mm
+stl/P05_Vassoio_con_asticella.stl - 66.4 x 29.567 x 14.1 mm
+stl/P06_Porta_occhiali.stl - 142.0 x 46.1 x 23.7 mm
+stl/P07_Chiave_meandro.stl - 16.0 x 19.0 x 2.8 mm - DUE COPIE
+stl/P08_Fermo_L.stl - 6.7 x 77.3 x 33.5 mm
 
 PRIMA DELLA STAMPA COMPLETA
 Stampare prove/T01_Guida_porta_patch.stl e prove/T02_Cursore_porta_patch.stl.
@@ -79,7 +79,7 @@ P02/P03: accorciati sul retro a Y = 77,3 mm; P03 senza fondo, lo chiude la paret
 P06: nasello con punta raccordata (R 4 mm) e spigoli smussati (1 mm), altezza 23,7 mm invariata.
 
 CONTROLLI DIGITALI
-Vedi verifica_geometria.json e verifica_STL.json.
+Vedi dati/verifica_geometria.json e verifica_STL.json.
 8 componenti (P07 in due copie): un solido chiuso ciascuno, nessuna faccia degenere.
 36 coppie di solidi nell'assieme: nessuna intersezione volumetrica rilevata.
 P05 in P04: nessuna intersezione a 0,5,10,15,20,25,50,100,112 mm di sollevamento.

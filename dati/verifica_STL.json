@@ -1,6 +1,6 @@
 [
   {
-    "file": "P01_Modulo_principale.stl",
+    "file": "stl/P01_Modulo_principale.stl",
     "triangles": 29572,
     "closed_edges": true,
     "consistent_winding": true,
@@ -16,7 +16,7 @@
     "volume_mm3": 176304.8682
   },
   {
-    "file": "P02_Sezione_mobile_4x60.stl",
+    "file": "stl/P02_Sezione_mobile_4x60.stl",
     "triangles": 1884,
     "closed_edges": true,
     "consistent_winding": true,
@@ -32,7 +32,7 @@
     "volume_mm3": 16714.08
   },
   {
-    "file": "P03_Sezione_mobile_50x80.stl",
+    "file": "stl/P03_Sezione_mobile_50x80.stl",
     "triangles": 3456,
     "closed_edges": true,
     "consistent_winding": true,
@@ -48,7 +48,7 @@
     "volume_mm3": 57028.7518
   },
   {
-    "file": "P04_Porta_patch_pieno.stl",
+    "file": "stl/P04_Porta_patch_pieno.stl",
     "triangles": 408,
     "closed_edges": true,
     "consistent_winding": true,
@@ -64,7 +64,7 @@
     "volume_mm3": 26268.7834
   },
   {
-    "file": "P05_Vassoio_con_asticella.stl",
+    "file": "stl/P05_Vassoio_con_asticella.stl",
     "triangles": 588,
     "closed_edges": true,
     "consistent_winding": true,
@@ -80,7 +80,7 @@
     "volume_mm3": 971.8735
   },
   {
-    "file": "P06_Porta_occhiali.stl",
+    "file": "stl/P06_Porta_occhiali.stl",
     "triangles": 488,
     "closed_edges": true,
     "consistent_winding": true,
@@ -96,7 +96,7 @@
     "volume_mm3": 21032.2064
   },
   {
-    "file": "P07_Chiave_meandro.stl",
+    "file": "stl/P07_Chiave_meandro.stl",
     "triangles": 44,
     "closed_edges": true,
     "consistent_winding": true,
@@ -112,7 +112,7 @@
     "volume_mm3": 319.2
   },
   {
-    "file": "P08_Fermo_L.stl",
+    "file": "stl/P08_Fermo_L.stl",
     "triangles": 544,
     "closed_edges": true,
     "consistent_winding": true,
