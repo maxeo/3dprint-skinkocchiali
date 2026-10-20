@@ -2,6 +2,8 @@
 
 Versione attuale: revisione 14. Apri **guida.html** per la vista 3D interattiva, il movimento del vassoio, gli STL e le istruzioni.
 
+**Guida di stampa e montaggio:** https://maxeo.github.io/3dprint-guide/skinkocchiali/guida.html
+
 - `stl/P01`–`P06`: sei pezzi da stampare, una copia ciascuno, millimetri e Z=0.
 - `stl/P07_Chiave_meandro.stl`: chiave a S da 2 mm che unisce P06 a P01, **due copie**; sta in tasche aperte sotto P06, invisibili da sopra.
 - `stl/P08_Fermo_L.stl`: fermo a L che blocca P02 dal lato Sud, tre perni nelle tre file di fori di P01.
@@ -72,4 +74,4 @@ Provino T05 aggiunto il 1 ottobre 2026: riquadro 20 x 20 x 3 mm della tasca sott
 20 ottobre 2026: P01 aggiornato.
 - Grata: aggiunte barre a X = 30, 50, 70, 90 e 106,5 mm; tutte le colonne sono ora strette (4,5–8 mm) e in stampa i ponti non superano gli 8 mm.
 - Tasca del porta patch: il fondo scende da Z = 5 a Z = 3,2 mm (0,2 mm sopra P06), a Z = 4,2 mm sopra il bordino Nord di P06 (X 105,6–108,4).
-- STL P01 rigenerato (volume 180 844 mm³, mesh chiusa); guida.html rigenerata. Provini T03/T04/T11 non aggiornati.
+- STL P01 rigenerato (volume 180 844 mm³, mesh chiusa); guida.html rigenerata. Provino T11 aggiornato con le stesse modifiche; T03 e T04 (X 0–16 e 0–8 mm) non toccano le zone modificate e restano validi.
