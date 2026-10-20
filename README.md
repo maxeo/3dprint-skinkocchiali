@@ -75,3 +75,9 @@ Provino T05 aggiunto il 1 ottobre 2026: riquadro 20 x 20 x 3 mm della tasca sott
 - Grata: aggiunte barre a X = 30, 50, 70, 90 e 106,5 mm; tutte le colonne sono ora strette (4,5–8 mm) e in stampa i ponti non superano gli 8 mm.
 - Tasca del porta patch: il fondo scende da Z = 5 a Z = 3,2 mm (0,2 mm sopra P06), a Z = 4,2 mm sopra il bordino Nord di P06 (X 105,6–108,4).
 - STL P01 rigenerato (volume 180 844 mm³, mesh chiusa); guida.html rigenerata. Provino T11 aggiornato con le stesse modifiche; T03 e T04 (X 0–16 e 0–8 mm) non toccano le zone modificate e restano validi.
+
+
+20 ottobre 2026 (2): parete esterna Nord di P01 da 0,8 a 2 mm, come la parete interna accanto.
+- Fessura della Sezione 1 invariata (2,4 mm); P01 largo 116,2 mm, assieme 151,2 × 126,1 × 220,3 mm.
+- Fermi superiori Nord spostati di 1,2 mm (X 106,2–116,2), stessa misura di prima; bordo Nord della grata da 4,2 mm.
+- Stessa modifica sul provino T11, ora 57,2 × 100 × 52,5 mm.

@@ -12,7 +12,7 @@
     "intro_html": "<b>Portaocchiali unito con due chiavi a meandro, lato Sud aperto, parete posteriore.</b> P02 e P03 sono invertiti: il giallo sta a Sud, il viola a Nord. Un nuovo fermo a L tiene P02 dal lato aperto. Il porta patch con vassoio mobile resta invariato.",
     "facts": [
       {
-        "value": "150 × 126,1 × 220,3 mm",
+        "value": "151,2 × 126,1 × 220,3 mm",
         "label": "assieme"
       },
       {
@@ -34,7 +34,7 @@
     "pitch": 0.42
   },
   "caption": "Vista dal davanti: Sud a sinistra, Nord a destra. X verso Nord, Y verso il fondo, Z verso l'alto.",
-  "model_note_html": "<span class='badge'>Quote del modello reale</span><p>150 × 126,1 × 220,3 mm. Fermi superiori allungati di 1,6 mm. La quota di 219 mm del mobile nei documenti originali resta un riferimento precedente: la nuova altezza del modulo è 220,3 mm.</p>",
+  "model_note_html": "<span class='badge'>Quote del modello reale</span><p>151,2 × 126,1 × 220,3 mm. Fermi superiori allungati di 1,6 mm. La quota di 219 mm del mobile nei documenti originali resta un riferimento precedente: la nuova altezza del modulo è 220,3 mm.</p>",
   "groups": {
     "Struttura": {
       "color": "#94a8b8"
@@ -75,7 +75,7 @@
           220.3
         ]
       ],
-      "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Davanti, tasca del porta patch a portapenne: pareti alte 30 mm, 1 mm di gioco e bordo svasato. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p><p>Fermi superiori allungati di 1,6 mm: quota finale Z = 220,3 mm. La grata conserva la sua quota.</p><p>20 ottobre 2026: grata con colonne tutte strette (4,5–8 mm, barre ogni 10 mm) per ponti corti in stampa; tasca del porta patch prolungata sotto fino a Z = 3,2 mm, 0,2 mm sopra P06 (Z = 4,2 mm sul bordino Nord di P06).</p>"
+      "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Davanti, tasca del porta patch a portapenne: pareti alte 30 mm, 1 mm di gioco e bordo svasato. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p><p>Fermi superiori allungati di 1,6 mm: quota finale Z = 220,3 mm. La grata conserva la sua quota.</p><p>20 ottobre 2026: grata con colonne tutte strette (4,5–8 mm, barre ogni 10 mm) per ponti corti in stampa; tasca del porta patch prolungata sotto fino a Z = 3,2 mm, 0,2 mm sopra P06 (Z = 4,2 mm sul bordino Nord di P06). Parete esterna Nord portata da 0,8 a 2 mm: il modulo è largo 116,2 mm e i fermi superiori Nord sono spostati di 1,2 mm.</p>"
     },
     {
       "id": "P02",
@@ -625,7 +625,7 @@
           ],
           [
             "Ingombro",
-            "115 × 100 × 220,3 mm"
+            "116,2 × 100 × 220,3 mm"
           ]
         ],
         "why": "P01 è alto 220,3 mm: controlla il volume utile della stampante. Le sedi delle chiavi sono aperte sotto la base; il loro soffitto a 3,1 mm si stampa con ponti corti. Il fondo della tasca del porta patch sporge di 10,7 mm davanti alla base a Z = 5 mm: mettici i supporti.",
