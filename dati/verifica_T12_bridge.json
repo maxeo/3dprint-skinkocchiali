@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-03",
+  "file": "prove/T12_Test_bridge_2_15mm.stl",
+  "unsupported_spans_mm": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10,
+    12,
+    15
+  ],
+  "span_ranges_x_mm": [
+    [
+      2.0,
+      4.0
+    ],
+    [
+      6.0,
+      9.0
+    ],
+    [
+      11.0,
+      15.0
+    ],
+    [
+      17.0,
+      22.0
+    ],
+    [
+      24.0,
+      30.0
+    ],
+    [
+      32.0,
+      40.0
+    ],
+    [
+      42.0,
+      52.0
+    ],
+    [
+      54.0,
+      66.0
+    ],
+    [
+      68.0,
+      83.0
+    ]
+  ],
+  "beam_width_mm": 2.0,
+  "beam_thickness_mm": 3.0,
+  "base_thickness_mm": 3.0,
+  "gap_height_above_base_mm": 6.0,
+  "bridge_bottom_z_mm": 9.0,
+  "post_width_mm": 2.0,
+  "post_depth_mm": 2.0,
+  "labels": "Campate nominali in mm, in rilievo sulla base davanti a ogni apertura.",
+  "checks": {
+    "triangles": 1120,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 0.00014339019980980083,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      85.0,
+      20.0,
+      12.0
+    ],
+    "volume_mm3": 5853.275
+  }
+}

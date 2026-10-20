@@ -7,12 +7,12 @@
     "viewer_bg": "#251e24"
   },
   "header": {
-    "eyebrow": "SkinkOcchiali · revisione 14 · aggiornata il 14 settembre 2026",
+    "eyebrow": "SkinkOcchiali · revisione 14 · aggiornata il 20 ottobre 2026",
     "h1": "Otto file, tre file di fori.",
     "intro_html": "<b>Portaocchiali unito con due chiavi a meandro, lato Sud aperto, parete posteriore.</b> P02 e P03 sono invertiti: il giallo sta a Sud, il viola a Nord. Un nuovo fermo a L tiene P02 dal lato aperto. Il porta patch con vassoio mobile resta invariato.",
     "facts": [
       {
-        "value": "150 × 126,1 × 218,7 mm",
+        "value": "150 × 126,1 × 220,3 mm",
         "label": "assieme"
       },
       {
@@ -34,7 +34,7 @@
     "pitch": 0.42
   },
   "caption": "Vista dal davanti: Sud a sinistra, Nord a destra. X verso Nord, Y verso il fondo, Z verso l'alto.",
-  "model_note_html": "<span class='badge'>Quote del modello reale</span><p>150 × 126,1 × 218,7 mm nel mobile da 310 × 130 × 219 mm.</p>",
+  "model_note_html": "<span class='badge'>Quote del modello reale</span><p>150 × 126,1 × 220,3 mm. Fermi superiori allungati di 1,6 mm. La quota di 219 mm del mobile nei documenti originali resta un riferimento precedente: la nuova altezza del modulo è 220,3 mm.</p>",
   "groups": {
     "Struttura": {
       "color": "#94a8b8"
@@ -72,10 +72,10 @@
         ],
         [
           0.0,
-          218.7
+          220.3
         ]
       ],
-      "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Davanti, tasca del porta patch a portapenne: pareti alte 30 mm, 1 mm di gioco e bordo svasato. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p>"
+      "note_html": "<p>Base da 6 mm con tre file di fori (Y = 25, 42,5 e 60 mm, passo 5 mm), parete posteriore da Sud al divisorio, Sezione 3 aperta dietro, lato Sud aperto, fermi superiori agli angoli. Davanti, tasca del porta patch a portapenne: pareti alte 30 mm, 1 mm di gioco e bordo svasato. Sotto la base: due sedi per le chiavi sul davanti e due sul bordo Sud per moduli futuri.</p><p>Fermi superiori allungati di 1,6 mm: quota finale Z = 220,3 mm. La grata conserva la sua quota.</p><p>20 ottobre 2026: grata con colonne tutte strette (4,5–8 mm, barre ogni 10 mm) per ponti corti in stampa; tasca del porta patch prolungata sotto fino a Z = 3,2 mm, 0,2 mm sopra P06 (Z = 4,2 mm sul bordino Nord di P06).</p>"
     },
     {
       "id": "P02",
@@ -625,10 +625,10 @@
           ],
           [
             "Ingombro",
-            "115 × 100 × 218,7 mm"
+            "115 × 100 × 220,3 mm"
           ]
         ],
-        "why": "P01 è alto 218,7 mm: controlla il volume utile della stampante. Le sedi delle chiavi sono aperte sotto la base; il loro soffitto a 3,1 mm si stampa con ponti corti. Il fondo della tasca del porta patch sporge di 10,7 mm davanti alla base a Z = 5 mm: mettici i supporti.",
+        "why": "P01 è alto 220,3 mm: controlla il volume utile della stampante. Le sedi delle chiavi sono aperte sotto la base; il loro soffitto a 3,1 mm si stampa con ponti corti. Il fondo della tasca del porta patch sporge di 10,7 mm davanti alla base a Z = 5 mm: mettici i supporti.",
         "summary": "verticale · 3 pareti · supporti per soffitti e grata"
       },
       {
@@ -780,6 +780,54 @@
       {
         "label": "Bozza originale",
         "href": "originale/README_misure.txt"
+      },
+      {
+        "label": "Provino base con tre file di fori (T03)",
+        "href": "prove/T03_Segmento_base_3_fori.stl"
+      },
+      {
+        "label": "Provino a tutta altezza 220,3 mm, fetta larga 8 mm (T04)",
+        "href": "prove/T04_Fetta_Sud_completa.stl"
+      },
+      {
+        "label": "Provino quadratino della tasca P06, 20 × 20 mm (T05)",
+        "href": "prove/T05_Provino_tasca_P06.stl"
+      },
+      {
+        "label": "T06 · Chiave a S di prova, spessore 1,7 mm",
+        "href": "prove/T06_Chiave_S_spessore_1_7mm.stl"
+      },
+      {
+        "label": "T07 · Chiave a S di prova, spessore 1,4 mm",
+        "href": "prove/T07_Chiave_S_spessore_1_4mm.stl"
+      },
+      {
+        "label": "T08 · Chiave a S di prova, spessore 1,2 mm",
+        "href": "prove/T08_Chiave_S_spessore_1_2mm.stl"
+      },
+      {
+        "label": "T09 · Chiave a S di prova 16,25 × 19,25 × 1,6 mm",
+        "href": "prove/T09_Chiave_S_16_25x19_25x1_6mm.stl"
+      },
+      {
+        "label": "T10 · Chiave a S più aderente, spessore 1,6 mm",
+        "href": "prove/T10_Chiave_S_aderente_1_6mm.stl"
+      },
+      {
+        "label": "T11 · Grata estesa a quadretti chiusi, soffitto e piedino corto",
+        "href": "prove/T11_Tasca_porta_patch_con_base.stl"
+      },
+      {
+        "label": "T11 · Chiave a S, ulteriore aumento laterale, spessore 1,6 mm",
+        "href": "prove/T11_Chiave_S_aderente_1_6mm.stl"
+      },
+      {
+        "label": "T12 · Test bridge numerato, campate 2–25 mm",
+        "href": "prove/T12_Test_bridge_2_15mm.stl"
+      },
+      {
+        "label": "Istruzioni del test bridge T12",
+        "href": "prove/LEGGIMI_TEST_BRIDGE.txt"
       }
     ]
   },

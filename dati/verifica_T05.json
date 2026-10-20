@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-01",
+  "source": "stl/P06_Porta_occhiali.stl",
+  "source_crop_mm": {
+    "X": [
+      50,
+      70
+    ],
+    "Y": [
+      26.1,
+      46.1
+    ]
+  },
+  "file": "prove/T05_Provino_tasca_P06.stl",
+  "checks": {
+    "triangles": 106,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 2.86102294921875e-06,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      20.0,
+      20.0,
+      3.0
+    ],
+    "volume_mm3": 1047.144
+  },
+  "pocket_depth_mm": 2.2,
+  "roof_thickness_mm": 0.8,
+  "key": "stl/P07_Chiave_meandro.stl",
+  "key_intersection_mm3": 0.0
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-02",
+  "source": "stl/P07_Chiave_meandro.stl",
+  "dimensions_mm": [
+    16.25,
+    19.25,
+    1.6
+  ],
+  "xy_increase_from_previous_mm": 0.15,
+  "xy_increase_from_original_mm": 0.25,
+  "checks": {
+    "triangles": 44,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 2.4315781001981804,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      16.25,
+      19.25,
+      1.6
+    ],
+    "volume_mm3": 187.6875
+  }
+}

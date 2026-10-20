@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "file": "prove/T04_Fetta_Sud_completa.stl",
+  "width_before_mm": 16.0,
+  "width_mm": 8.0,
+  "height_mm": 220.3,
+  "method": "Intersezione della fetta precedente con X <= 8 mm, senza scalare la geometria.",
+  "checks": {
+    "triangles": 5802,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 1.218770194100216e-06,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      8.0,
+      100.0,
+      220.3
+    ],
+    "volume_mm3": 11100.5253
+  },
+  "note": "Foro X=2 completo; foro X=7 e tasche a meandro intercettati dal taglio. Il provino T03 conserva la verifica completa degli incastri."
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-02",
+  "source": "prove\\T09_Chiave_S_16_25x19_25x1_6mm.stl",
+  "profile_offset_mm_per_side": 0.1,
+  "increase_arm_width_mm": 0.2,
+  "thickness_mm": 1.6,
+  "checks": {
+    "triangles": 44,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 2.4315781001981804,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      16.45,
+      19.45,
+      1.6
+    ],
+    "volume_mm3": 201.0568
+  },
+  "seat_checks": [
+    {
+      "seat": "P06_Porta_occhiali.stl",
+      "intersection_mm3": 0.0
+    },
+    {
+      "seat": "P01_Modulo_principale.stl",
+      "intersection_mm3": 0.0
+    }
+  ],
+  "note": "Verifica CAD; il gioco reale va confrontato in stampa con T09."
+}

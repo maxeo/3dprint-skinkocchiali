@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-02",
+  "source": "prove\\T10_Chiave_S_aderente_1_6mm.stl",
+  "additional_profile_offset_mm_per_side": 0.1,
+  "total_profile_offset_from_T09_mm_per_side": 0.2,
+  "increase_arm_width_from_T10_mm": 0.2,
+  "thickness_mm": 1.6,
+  "checks": {
+    "triangles": 44,
+    "closed_edges": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "degenerate_triangles": 0,
+    "min_triangle_area_mm2": 2.4315781001981804,
+    "z_min": 0.0,
+    "dimensions_mm": [
+      16.65,
+      19.65,
+      1.6
+    ],
+    "volume_mm3": 214.5541
+  },
+  "seat_checks": [
+    {
+      "seat": "P06_Porta_occhiali.stl",
+      "intersection_mm3": 0.660136
+    },
+    {
+      "seat": "P01_Modulo_principale.stl",
+      "intersection_mm3": 0.660136
+    }
+  ],
+  "note": "Provino di taratura dopo gioco laterale rilevato fisicamente su T10. Le interferenze CAD sono riportate: verificare l'accoppiamento reale nella tasca stampata T05."
+}
